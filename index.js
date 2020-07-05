@@ -1,6 +1,6 @@
 
 function updateObjectWithKeyAndValue(object, key, value){
    var obj = { prop: 1 }
-   var newObj = Object.assign({prop
+   var newObj = Object.assign({prop2}, obj)
   
 }

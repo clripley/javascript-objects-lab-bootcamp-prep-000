@@ -12,4 +12,4 @@ function deleteFromObjectByKey(object, key){
   delete newObj.object
   return newObj
 }
-function 
+function destructivelyDeleteFromObjectByKey(object, key)
